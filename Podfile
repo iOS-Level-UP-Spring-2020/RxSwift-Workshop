@@ -5,7 +5,7 @@ target 'RxWorkshop' do
 
   target 'RxWorkshopTests' do
     inherit! :search_paths
-    # pod 'RxSwift'
+    pod 'RxSwift'
   end
 
 end
